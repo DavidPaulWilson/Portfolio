@@ -1,6 +1,6 @@
 # Welcome to David Wilson's Portfolio!
   
-This repository contains samples of my work in writing and document design. Check the links below for specific examples:  
+This repository contains samples of my work in writing and document design. Check the links below for examples:  
 ## Writing Samples  
 - [Research Paper - Kanban Methodology](https://github.com/DavidPaulWilson/Portfolio/blob/43fd8ba7c77bf3e7901454b4c525509f4248dd94/Writing%20Samples/Research%20Paper%20-%20Kanban%20Methodology.pdf)
   
