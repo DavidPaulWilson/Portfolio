@@ -2,12 +2,12 @@
   
 This repository contains samples of my work in writing and document design. Check the links below for specific examples:  
 ## Writing Samples  
-- Research Paper
+- Research Paper - Kanban Methodology
   
 ## Document Design Samples  
-- Policy Document
-- Procedure Document
-- Instruction Guide
+- Example Policy Document
+- Example Procedure Document
+- Example Instruction Guide
 
-## Computer Science/IT Documentation  
+## IT or Software Engineering (SWE) Documentation Samples
 - Software Test Plan
