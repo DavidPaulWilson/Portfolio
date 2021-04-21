@@ -7,7 +7,7 @@ This repository contains samples of my work in writing and document design. Chec
 - [Research Paper - Kanban Methodology](https://github.com/DavidPaulWilson/Portfolio/blob/43fd8ba7c77bf3e7901454b4c525509f4248dd94/Writing%20Samples/Research%20Paper%20-%20Kanban%20Methodology.pdf)
   
 ## Document Design Samples  
-- [Example Instruction Guide](https://github.com/DavidPaulWilson/Portfolio/blob/43fd8ba7c77bf3e7901454b4c525509f4248dd94/Document%20Design%20Samples/Example%20Instructional%20Guide.pdf)
+- [Example Instructional Guide](https://github.com/DavidPaulWilson/Portfolio/blob/43fd8ba7c77bf3e7901454b4c525509f4248dd94/Document%20Design%20Samples/Example%20Instructional%20Guide.pdf)
 - [Example Quad Chart](https://github.com/DavidPaulWilson/Portfolio/blob/43fd8ba7c77bf3e7901454b4c525509f4248dd94/Document%20Design%20Samples/Example%20Quad%20Chart.pdf)
   
 ## Technical Document Samples
